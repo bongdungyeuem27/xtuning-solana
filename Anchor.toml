@@ -1,14 +1,14 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
+[programs.testnet]
 carstore = "G7XMcMqA1163mYCQdLwoTaBA9PYS1eZePViaRnWprc9f"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "testnet"
 wallet = "/Users/khanhle/.config/solana/id.json"
 
 [scripts]
